@@ -20,3 +20,4 @@ sudo yum install tmux
 .tmux.conf
 ```
 
+Refer to: https://linuxize.com/post/getting-started-with-tmux/
