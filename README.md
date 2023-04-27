@@ -17,6 +17,6 @@ sudo yum install tmux
 
 # Configuration
 ```
-tmux.conf
+.tmux.conf
 ```
 
