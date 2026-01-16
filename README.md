@@ -14,10 +14,16 @@ sudo apt install tmux
 ```
 sudo yum install tmux
 ```
-
-# Configuration
+# Testing
+### Testing tmux is installed
 ```
-.tmux.conf
+tmux -V
+```
+
+# Config and Setup
+### Configuration
+```
+vim .tmux.conf
 ```
 
 Refer to: https://linuxize.com/post/getting-started-with-tmux/
